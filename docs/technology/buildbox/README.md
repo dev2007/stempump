@@ -12,5 +12,6 @@
 
 - 1. 设置 BuildBox
   - [欢迎来到 BuildBox](/technology/buildbox/l-welcome-to-buildbox.html) `如何无代码制作移动游戏`
+  - [开始](/l-getting-started.html) `Understanding the layout of the interface.`
 
 > [原文链接](https://stempump.org/course/buildbox)

@@ -1,6 +1,6 @@
 # 欢迎来到 BuildBox
 
-耗时:alarm_clock:：2 分钟
+阅读耗时:alarm_clock:：2 分钟
 
 ::: tip 浏览链接
 以下课程使用此链接。
