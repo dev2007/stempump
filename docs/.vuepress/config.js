@@ -40,6 +40,8 @@ module.exports = {
             path: '/technology/buildbox/',
             children: [
               '/technology/buildbox/l-welcome-to-buildbox.html',
+              '/technology/buildbox/l-getting-started.html',
+              '/technology/buildbox/l-level-creator.html'
             ]
           }
         ]
