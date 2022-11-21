@@ -12,6 +12,9 @@
 
 - 1. 设置 BuildBox
   - [欢迎来到 BuildBox](/technology/buildbox/l-welcome-to-buildbox.html) `如何无代码制作移动游戏`
-  - [开始](/l-getting-started.html) `Understanding the layout of the interface.`
+  - [开始](/technology/buildbox//l-getting-started.html) `理解界面的结构`
+- 2. 使用 BuildBox
+  - [层级创建器](/technology/buildbox/l-level-creator.html) `设置我们层级的基础，以允许资源添加`
+  - [向场景添加资源](/technology/buildbox/l-adding-assets-to-the-scene.html)
 
 > [原文链接](https://stempump.org/course/buildbox)

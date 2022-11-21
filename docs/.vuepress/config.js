@@ -39,9 +39,22 @@ module.exports = {
             title: 'BuildBox',
             path: '/technology/buildbox/',
             children: [
-              '/technology/buildbox/l-welcome-to-buildbox.html',
-              '/technology/buildbox/l-getting-started.html',
-              '/technology/buildbox/l-level-creator.html'
+              {
+                title: '1.设置 BuildBox',
+                path: '',
+                children:[
+                  '/technology/buildbox/l-welcome-to-buildbox.html',
+                  '/technology/buildbox/l-getting-started.html'
+                ]
+              },
+              {
+                title: '2. 使用 BuildBox',
+                path: '',
+                children:[
+                  '/technology/buildbox/l-level-creator.html',
+                  '/technology/buildbox/l-adding-assets-to-the-scene.html'
+                ]
+              }
             ]
           }
         ]
